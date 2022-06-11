@@ -13,5 +13,4 @@ pandas
 joblib
 SQLAlchemy
 flask
-os
 
